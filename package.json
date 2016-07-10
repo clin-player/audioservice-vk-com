@@ -1,0 +1,22 @@
+{
+  "name": "@clin-player/audioservice-vk-com",
+  "version": "0.0.0",
+  "description": "audio-service plugin for clin-player",
+  "author": "Oleg Akinin <kicumkicum@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/clin-player/audioservice-vk-com#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clin-player/audioservice-vk-com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clin-player/audioservice-vk-com/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@clin-player/audioservice-abstract": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
